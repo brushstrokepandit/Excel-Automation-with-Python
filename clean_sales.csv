@@ -1,0 +1,655 @@
+source_file,invoice_no,date,month,region,product,quantity,unit_price,amount,amount_check
+branch_sales_2026-05.xlsx,INV-050010,2026-05-01,2026-05,West,USB-C Hub,15,2200,33000.0,OK
+branch_sales_2026-05.xlsx,INV-050064,2026-05-01,2026-05,North,Laptop Stand,8,1800,14400.0,OK
+branch_sales_2026-05.xlsx,INV-050070,2026-05-01,2026-05,North,USB-C Hub,10,2200,22000.0,OK
+branch_sales_2026-05.xlsx,INV-050090,2026-05-01,2026-05,North,USB-C Hub,14,2150,30100.0,OK
+branch_sales_2026-05.xlsx,INV-050102,2026-05-01,2026-05,East,Laptop Stand,1,1750,1750.0,OK
+branch_sales_2026-05.xlsx,INV-050039,2026-05-02,2026-05,North,USB-C Hub,1,2200,2200.0,OK
+branch_sales_2026-05.xlsx,INV-050063,2026-05-03,2026-05,West,Laptop Stand,9,1850,16650.0,OK
+branch_sales_2026-05.xlsx,INV-050103,2026-05-03,2026-05,South,USB-C Hub,7,2200,15400.0,OK
+branch_sales_2026-05.xlsx,INV-050109,2026-05-03,2026-05,East,Laptop Stand,16,1800,28800.0,OK
+branch_sales_2026-05.xlsx,INV-050001,2026-05-04,2026-05,North,USB-C Hub,17,2150,36550.0,OK
+branch_sales_2026-05.xlsx,INV-050057,2026-05-04,2026-05,South,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-05.xlsx,INV-050059,2026-05-04,2026-05,South,USB-C Hub,14,2200,30800.0,OK
+branch_sales_2026-05.xlsx,INV-050060,2026-05-04,2026-05,North,Laptop Stand,6,1800,10800.0,OK
+branch_sales_2026-05.xlsx,INV-050074,2026-05-04,2026-05,East,Laptop Stand,17,1800,30600.0,OK
+branch_sales_2026-05.xlsx,INV-050042,2026-05-05,2026-05,West,Keyboard,7,1400,9800.0,OK
+branch_sales_2026-05.xlsx,INV-050048,2026-05-06,2026-05,West,Wireless Mouse,9,700,6300.0,OK
+branch_sales_2026-05.xlsx,INV-050050,2026-05-06,2026-05,West,USB-C Hub,9,2200,19800.0,OK
+branch_sales_2026-05.xlsx,INV-050101,2026-05-06,2026-05,South,USB-C Hub,5,2150,10750.0,OK
+branch_sales_2026-05.xlsx,INV-050045,2026-05-07,2026-05,North,Wireless Mouse,18,650,11700.0,OK
+branch_sales_2026-05.xlsx,INV-050089,2026-05-07,2026-05,West,Wireless Mouse,5,700,3500.0,OK
+branch_sales_2026-05.xlsx,INV-050002,2026-05-08,2026-05,West,Keyboard,18,1400,25200.0,OK
+branch_sales_2026-05.xlsx,INV-050004,2026-05-08,2026-05,North,Laptop Stand,3,1750,5250.0,OK
+branch_sales_2026-05.xlsx,INV-050031,2026-05-08,2026-05,East,Laptop Stand,2,1750,3500.0,OK
+branch_sales_2026-05.xlsx,INV-050054,2026-05-08,2026-05,East,Laptop Stand,15,1800,27000.0,OK
+branch_sales_2026-05.xlsx,INV-050079,2026-05-09,2026-05,North,Wireless Mouse,1,650,650.0,OK
+branch_sales_2026-05.xlsx,INV-050080,2026-05-09,2026-05,East,Keyboard,14,1500,21000.0,OK
+branch_sales_2026-05.xlsx,INV-050106,2026-05-09,2026-05,East,Keyboard,4,1450,5800.0,OK
+branch_sales_2026-05.xlsx,INV-050110,2026-05-09,2026-05,West,Wireless Mouse,11,650,7150.0,OK
+branch_sales_2026-05.xlsx,INV-050005,2026-05-10,2026-05,West,Laptop Stand,1,1850,1850.0,OK
+branch_sales_2026-05.xlsx,INV-050009,2026-05-10,2026-05,East,Webcam,19,3100,58900.0,OK
+branch_sales_2026-05.xlsx,INV-050062,2026-05-10,2026-05,East,USB-C Hub,9,2200,19800.0,OK
+branch_sales_2026-05.xlsx,INV-050065,2026-05-10,2026-05,East,Laptop Stand,18,1800,32400.0,OK
+branch_sales_2026-05.xlsx,INV-050071,2026-05-10,2026-05,North,Webcam,19,3100,58900.0,OK
+branch_sales_2026-05.xlsx,INV-050098,2026-05-10,2026-05,South,Keyboard,12,1450,17400.0,OK
+branch_sales_2026-05.xlsx,INV-050052,2026-05-11,2026-05,North,Keyboard,15,1500,22500.0,OK
+branch_sales_2026-05.xlsx,INV-050066,2026-05-11,2026-05,North,Webcam,20,3050,61000.0,OK
+branch_sales_2026-05.xlsx,INV-050081,2026-05-11,2026-05,South,Wireless Mouse,3,600,1800.0,OK
+branch_sales_2026-05.xlsx,INV-050096,2026-05-11,2026-05,North,Keyboard,10,1450,14500.0,OK
+branch_sales_2026-05.xlsx,INV-050105,2026-05-11,2026-05,West,Webcam,3,3100,9300.0,OK
+branch_sales_2026-05.xlsx,INV-050007,2026-05-12,2026-05,North,USB-C Hub,17,2250,38250.0,OK
+branch_sales_2026-05.xlsx,INV-050023,2026-05-12,2026-05,West,Wireless Mouse,16,650,10400.0,OK
+branch_sales_2026-05.xlsx,INV-050028,2026-05-12,2026-05,South,Laptop Stand,14,1800,25200.0,OK
+branch_sales_2026-05.xlsx,INV-050076,2026-05-12,2026-05,South,Webcam,13,3150,40950.0,OK
+branch_sales_2026-05.xlsx,INV-050013,2026-05-13,2026-05,West,Keyboard,14,1450,20300.0,OK
+branch_sales_2026-05.xlsx,INV-050038,2026-05-13,2026-05,North,Laptop Stand,13,1800,23400.0,OK
+branch_sales_2026-05.xlsx,INV-050067,2026-05-13,2026-05,West,USB-C Hub,7,2150,15050.0,OK
+branch_sales_2026-05.xlsx,INV-050069,2026-05-13,2026-05,West,USB-C Hub,2,2200,4400.0,OK
+branch_sales_2026-05.xlsx,INV-050094,2026-05-13,2026-05,South,Webcam,17,3050,51850.0,OK
+branch_sales_2026-05.xlsx,INV-050099,2026-05-13,2026-05,West,Wireless Mouse,20,650,13000.0,OK
+branch_sales_2026-05.xlsx,INV-050027,2026-05-14,2026-05,West,Webcam,9,3100,27900.0,OK
+branch_sales_2026-05.xlsx,INV-050055,2026-05-14,2026-05,East,Keyboard,1,1450,1450.0,OK
+branch_sales_2026-05.xlsx,INV-050068,2026-05-14,2026-05,East,Laptop Stand,17,1800,30600.0,OK
+branch_sales_2026-05.xlsx,INV-050100,2026-05-14,2026-05,North,USB-C Hub,6,2150,12900.0,OK
+branch_sales_2026-05.xlsx,INV-050026,2026-05-15,2026-05,South,Keyboard,15,1450,21750.0,OK
+branch_sales_2026-05.xlsx,INV-050029,2026-05-15,2026-05,West,Laptop Stand,1,1800,1800.0,OK
+branch_sales_2026-05.xlsx,INV-050046,2026-05-15,2026-05,South,Wireless Mouse,1,700,700.0,OK
+branch_sales_2026-05.xlsx,INV-050017,2026-05-16,2026-05,West,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-05.xlsx,INV-050051,2026-05-16,2026-05,South,Webcam,15,3100,46500.0,OK
+branch_sales_2026-05.xlsx,INV-050107,2026-05-16,2026-05,South,Webcam,18,3100,55800.0,OK
+branch_sales_2026-05.xlsx,INV-050014,2026-05-17,2026-05,South,Keyboard,19,1450,27550.0,OK
+branch_sales_2026-05.xlsx,INV-050024,2026-05-17,2026-05,North,Webcam,18,3150,56700.0,OK
+branch_sales_2026-05.xlsx,INV-050037,2026-05-17,2026-05,South,Webcam,5,3150,15750.0,OK
+branch_sales_2026-05.xlsx,INV-050040,2026-05-17,2026-05,West,Webcam,10,3100,31000.0,OK
+branch_sales_2026-05.xlsx,INV-050053,2026-05-17,2026-05,South,Keyboard,4,1450,5800.0,OK
+branch_sales_2026-05.xlsx,INV-050061,2026-05-17,2026-05,North,USB-C Hub,19,2200,41800.0,OK
+branch_sales_2026-05.xlsx,INV-050095,2026-05-17,2026-05,West,Laptop Stand,5,1800,9000.0,OK
+branch_sales_2026-05.xlsx,INV-050034,2026-05-18,2026-05,South,Wireless Mouse,19,700,13300.0,OK
+branch_sales_2026-05.xlsx,INV-050049,2026-05-18,2026-05,East,Webcam,13,3100,40300.0,OK
+branch_sales_2026-05.xlsx,INV-050072,2026-05-18,2026-05,North,USB-C Hub,18,2200,39600.0,OK
+branch_sales_2026-05.xlsx,INV-050078,2026-05-18,2026-05,West,Laptop Stand,18,1750,31500.0,OK
+branch_sales_2026-05.xlsx,INV-050082,2026-05-18,2026-05,East,Laptop Stand,9,1750,15750.0,OK
+branch_sales_2026-05.xlsx,INV-050092,2026-05-18,2026-05,North,USB-C Hub,4,2200,8800.0,OK
+branch_sales_2026-05.xlsx,INV-050093,2026-05-18,2026-05,North,Wireless Mouse,10,600,6000.0,OK
+branch_sales_2026-05.xlsx,INV-050030,2026-05-19,2026-05,South,Keyboard,20,1450,29000.0,OK
+branch_sales_2026-05.xlsx,INV-050058,2026-05-19,2026-05,South,USB-C Hub,9,2150,19350.0,OK
+branch_sales_2026-05.xlsx,INV-050035,2026-05-20,2026-05,West,Keyboard,3,1450,4350.0,OK
+branch_sales_2026-05.xlsx,INV-050043,2026-05-20,2026-05,South,USB-C Hub,20,2250,45000.0,OK
+branch_sales_2026-05.xlsx,INV-050075,2026-05-20,2026-05,South,USB-C Hub,14,2200,30800.0,OK
+branch_sales_2026-05.xlsx,INV-050104,2026-05-20,2026-05,North,Keyboard,5,1450,7250.0,OK
+branch_sales_2026-05.xlsx,INV-050022,2026-05-21,2026-05,West,Keyboard,17,1500,25500.0,OK
+branch_sales_2026-05.xlsx,INV-050047,2026-05-21,2026-05,South,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-05.xlsx,INV-050083,2026-05-21,2026-05,North,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-05.xlsx,INV-050084,2026-05-21,2026-05,South,Wireless Mouse,2,700,1400.0,OK
+branch_sales_2026-05.xlsx,INV-050088,2026-05-21,2026-05,East,Webcam,16,3050,48800.0,OK
+branch_sales_2026-05.xlsx,INV-050091,2026-05-21,2026-05,East,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-05.xlsx,INV-050006,2026-05-22,2026-05,East,USB-C Hub,13,2200,28600.0,OK
+branch_sales_2026-05.xlsx,INV-050019,2026-05-22,2026-05,West,USB-C Hub,17,2150,36550.0,OK
+branch_sales_2026-05.xlsx,INV-050032,2026-05-22,2026-05,East,USB-C Hub,1,2200,2200.0,OK
+branch_sales_2026-05.xlsx,INV-050033,2026-05-22,2026-05,South,Keyboard,16,1400,22400.0,OK
+branch_sales_2026-05.xlsx,INV-050036,2026-05-22,2026-05,East,Wireless Mouse,19,650,12350.0,OK
+branch_sales_2026-05.xlsx,INV-050044,2026-05-22,2026-05,North,Laptop Stand,13,1750,22750.0,OK
+branch_sales_2026-05.xlsx,INV-050085,2026-05-22,2026-05,East,Keyboard,13,1450,18850.0,OK
+branch_sales_2026-05.xlsx,INV-050016,2026-05-23,2026-05,South,Keyboard,16,1500,24000.0,OK
+branch_sales_2026-05.xlsx,INV-050018,2026-05-23,2026-05,West,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-05.xlsx,INV-050008,2026-05-24,2026-05,East,USB-C Hub,18,2200,39600.0,OK
+branch_sales_2026-05.xlsx,INV-050073,2026-05-24,2026-05,North,Laptop Stand,20,1800,36000.0,OK
+branch_sales_2026-05.xlsx,INV-050097,2026-05-24,2026-05,East,Keyboard,6,1450,8700.0,OK
+branch_sales_2026-05.xlsx,INV-050015,2026-05-25,2026-05,North,Wireless Mouse,17,650,11050.0,OK
+branch_sales_2026-05.xlsx,INV-050077,2026-05-25,2026-05,South,Webcam,5,3100,15500.0,OK
+branch_sales_2026-05.xlsx,INV-050003,2026-05-26,2026-05,West,Keyboard,16,1400,22400.0,OK
+branch_sales_2026-05.xlsx,INV-050020,2026-05-26,2026-05,East,Webcam,7,3150,22050.0,OK
+branch_sales_2026-05.xlsx,INV-050086,2026-05-26,2026-05,East,Wireless Mouse,9,600,5400.0,OK
+branch_sales_2026-05.xlsx,INV-050021,2026-05-27,2026-05,South,USB-C Hub,2,2200,4400.0,OK
+branch_sales_2026-05.xlsx,INV-050025,2026-05-27,2026-05,North,USB-C Hub,15,2200,33000.0,OK
+branch_sales_2026-05.xlsx,INV-050108,2026-05-27,2026-05,East,USB-C Hub,19,2250,42750.0,OK
+branch_sales_2026-05.xlsx,INV-050012,2026-05-28,2026-05,West,Laptop Stand,17,1850,31450.0,OK
+branch_sales_2026-05.xlsx,INV-050056,2026-05-28,2026-05,South,Wireless Mouse,18,650,11700.0,OK
+branch_sales_2026-05.xlsx,INV-050087,2026-05-28,2026-05,West,Wireless Mouse,12,650,7800.0,OK
+branch_sales_2026-06.xlsx,INV-060009,2026-06-01,2026-06,East,Keyboard,14,1450,20300.0,OK
+branch_sales_2026-06.xlsx,INV-060016,2026-06-01,2026-06,East,Wireless Mouse,17,700,16900.0,CHECK - amount differs from qty x price
+branch_sales_2026-06.xlsx,INV-060027,2026-06-01,2026-06,West,Webcam,9,3100,27900.0,OK
+branch_sales_2026-06.xlsx,INV-060099,2026-06-01,2026-06,South,USB-C Hub,5,2200,11000.0,OK
+branch_sales_2026-06.xlsx,INV-060015,2026-06-02,2026-06,East,Wireless Mouse,9,650,5850.0,OK
+branch_sales_2026-06.xlsx,INV-060047,2026-06-02,2026-06,East,Laptop Stand,19,1800,34200.0,OK
+branch_sales_2026-06.xlsx,INV-060070,2026-06-02,2026-06,North,Laptop Stand,17,1750,29750.0,OK
+branch_sales_2026-06.xlsx,INV-060089,2026-06-02,2026-06,North,USB-C Hub,6,2200,13200.0,OK
+branch_sales_2026-06.xlsx,INV-060095,2026-06-02,2026-06,North,Laptop Stand,13,1850,24050.0,OK
+branch_sales_2026-06.xlsx,INV-060033,2026-06-03,2026-06,West,Keyboard,9,1450,13050.0,OK
+branch_sales_2026-06.xlsx,INV-060054,2026-06-03,2026-06,North,Wireless Mouse,4,650,2600.0,OK
+branch_sales_2026-06.xlsx,INV-060069,2026-06-03,2026-06,North,Wireless Mouse,9,600,5400.0,OK
+branch_sales_2026-06.xlsx,INV-060104,2026-06-03,2026-06,South,Keyboard,9,1450,13050.0,OK
+branch_sales_2026-06.xlsx,INV-060010,2026-06-04,2026-06,South,Webcam,17,3050,51850.0,OK
+branch_sales_2026-06.xlsx,INV-060022,2026-06-04,2026-06,North,Laptop Stand,14,1800,25200.0,OK
+branch_sales_2026-06.xlsx,INV-060105,2026-06-04,2026-06,South,Webcam,10,3100,31000.0,OK
+branch_sales_2026-06.xlsx,INV-060109,2026-06-04,2026-06,East,Laptop Stand,1,1800,1800.0,OK
+branch_sales_2026-06.xlsx,INV-060013,2026-06-05,2026-06,West,USB-C Hub,20,2150,43000.0,OK
+branch_sales_2026-06.xlsx,INV-060038,2026-06-05,2026-06,South,Keyboard,5,1400,7000.0,OK
+branch_sales_2026-06.xlsx,INV-060039,2026-06-05,2026-06,East,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-06.xlsx,INV-060110,2026-06-05,2026-06,West,Webcam,1,3100,3100.0,OK
+branch_sales_2026-06.xlsx,INV-060023,2026-06-06,2026-06,West,Keyboard,8,1400,11200.0,OK
+branch_sales_2026-06.xlsx,INV-060042,2026-06-06,2026-06,West,Laptop Stand,5,1800,9000.0,OK
+branch_sales_2026-06.xlsx,INV-060086,2026-06-06,2026-06,North,Laptop Stand,18,1800,32400.0,OK
+branch_sales_2026-06.xlsx,INV-060097,2026-06-06,2026-06,East,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-06.xlsx,INV-060002,2026-06-07,2026-06,East,Webcam,12,3100,37200.0,OK
+branch_sales_2026-06.xlsx,INV-060028,2026-06-07,2026-06,West,USB-C Hub,17,2200,37400.0,OK
+branch_sales_2026-06.xlsx,INV-060051,2026-06-07,2026-06,West,USB-C Hub,18,2200,39600.0,OK
+branch_sales_2026-06.xlsx,INV-060056,2026-06-07,2026-06,North,Webcam,14,3100,43400.0,OK
+branch_sales_2026-06.xlsx,INV-060075,2026-06-07,2026-06,West,Laptop Stand,16,1750,28000.0,OK
+branch_sales_2026-06.xlsx,INV-060019,2026-06-08,2026-06,South,Webcam,20,3100,62000.0,OK
+branch_sales_2026-06.xlsx,INV-060072,2026-06-08,2026-06,West,USB-C Hub,8,2250,18000.0,OK
+branch_sales_2026-06.xlsx,INV-060073,2026-06-08,2026-06,North,Keyboard,14,1450,20300.0,OK
+branch_sales_2026-06.xlsx,INV-060084,2026-06-08,2026-06,South,Wireless Mouse,9,650,5850.0,OK
+branch_sales_2026-06.xlsx,INV-060108,2026-06-08,2026-06,West,Webcam,20,3100,62000.0,OK
+branch_sales_2026-06.xlsx,INV-060006,2026-06-09,2026-06,South,Wireless Mouse,9,600,5400.0,OK
+branch_sales_2026-06.xlsx,INV-060059,2026-06-09,2026-06,North,USB-C Hub,5,2250,11250.0,OK
+branch_sales_2026-06.xlsx,INV-060090,2026-06-09,2026-06,North,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-06.xlsx,INV-060008,2026-06-10,2026-06,West,Keyboard,13,1500,19500.0,OK
+branch_sales_2026-06.xlsx,INV-060029,2026-06-10,2026-06,West,Wireless Mouse,2,600,1200.0,OK
+branch_sales_2026-06.xlsx,INV-060044,2026-06-10,2026-06,North,Wireless Mouse,12,600,7200.0,OK
+branch_sales_2026-06.xlsx,INV-060053,2026-06-10,2026-06,West,Webcam,20,3050,61000.0,OK
+branch_sales_2026-06.xlsx,INV-060078,2026-06-10,2026-06,East,Wireless Mouse,11,600,6600.0,OK
+branch_sales_2026-06.xlsx,INV-060106,2026-06-10,2026-06,East,Keyboard,1,1450,1450.0,OK
+branch_sales_2026-06.xlsx,INV-060001,2026-06-11,2026-06,South,Webcam,11,3150,34650.0,OK
+branch_sales_2026-06.xlsx,INV-060005,2026-06-11,2026-06,West,Laptop Stand,9,1800,16200.0,OK
+branch_sales_2026-06.xlsx,INV-060007,2026-06-11,2026-06,East,Wireless Mouse,4,600,2400.0,OK
+branch_sales_2026-06.xlsx,INV-060048,2026-06-11,2026-06,South,Laptop Stand,17,1800,30600.0,OK
+branch_sales_2026-06.xlsx,INV-060068,2026-06-11,2026-06,West,Wireless Mouse,4,650,2600.0,OK
+branch_sales_2026-06.xlsx,INV-060055,2026-06-12,2026-06,South,Keyboard,4,1450,5800.0,OK
+branch_sales_2026-06.xlsx,INV-060058,2026-06-13,2026-06,West,Laptop Stand,17,1850,31450.0,OK
+branch_sales_2026-06.xlsx,INV-060077,2026-06-13,2026-06,South,Laptop Stand,15,1750,26250.0,OK
+branch_sales_2026-06.xlsx,INV-060098,2026-06-13,2026-06,North,USB-C Hub,15,2200,33000.0,OK
+branch_sales_2026-06.xlsx,INV-060003,2026-06-14,2026-06,South,Keyboard,7,1500,10500.0,OK
+branch_sales_2026-06.xlsx,INV-060011,2026-06-14,2026-06,West,USB-C Hub,2,2200,4400.0,OK
+branch_sales_2026-06.xlsx,INV-060004,2026-06-15,2026-06,East,Keyboard,14,1450,20300.0,OK
+branch_sales_2026-06.xlsx,INV-060035,2026-06-15,2026-06,South,Wireless Mouse,14,650,9100.0,OK
+branch_sales_2026-06.xlsx,INV-060045,2026-06-15,2026-06,South,Webcam,11,3100,34100.0,OK
+branch_sales_2026-06.xlsx,INV-060061,2026-06-15,2026-06,North,Webcam,19,3050,57950.0,OK
+branch_sales_2026-06.xlsx,INV-060063,2026-06-15,2026-06,North,Webcam,18,3100,55800.0,OK
+branch_sales_2026-06.xlsx,INV-060087,2026-06-15,2026-06,West,Keyboard,12,1450,17400.0,OK
+branch_sales_2026-06.xlsx,INV-060096,2026-06-15,2026-06,South,Keyboard,6,1450,8700.0,OK
+branch_sales_2026-06.xlsx,INV-060031,2026-06-16,2026-06,East,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-06.xlsx,INV-060032,2026-06-16,2026-06,South,USB-C Hub,12,2200,26400.0,OK
+branch_sales_2026-06.xlsx,INV-060074,2026-06-16,2026-06,West,Wireless Mouse,6,600,3600.0,OK
+branch_sales_2026-06.xlsx,INV-060076,2026-06-16,2026-06,South,Keyboard,16,1450,23200.0,OK
+branch_sales_2026-06.xlsx,INV-060091,2026-06-16,2026-06,South,USB-C Hub,18,2200,39600.0,OK
+branch_sales_2026-06.xlsx,INV-060093,2026-06-16,2026-06,South,Laptop Stand,12,1750,21000.0,OK
+branch_sales_2026-06.xlsx,INV-060101,2026-06-16,2026-06,North,Keyboard,5,1450,7250.0,OK
+branch_sales_2026-06.xlsx,INV-060036,2026-06-17,2026-06,South,Wireless Mouse,16,650,10400.0,OK
+branch_sales_2026-06.xlsx,INV-060085,2026-06-17,2026-06,East,USB-C Hub,3,2200,6600.0,OK
+branch_sales_2026-06.xlsx,INV-060018,2026-06-18,2026-06,East,Laptop Stand,5,1800,9000.0,OK
+branch_sales_2026-06.xlsx,INV-060037,2026-06-18,2026-06,South,USB-C Hub,13,2200,28600.0,OK
+branch_sales_2026-06.xlsx,INV-060041,2026-06-18,2026-06,South,USB-C Hub,15,2200,33000.0,OK
+branch_sales_2026-06.xlsx,INV-060057,2026-06-18,2026-06,East,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-06.xlsx,INV-060082,2026-06-18,2026-06,North,Wireless Mouse,13,700,9100.0,OK
+branch_sales_2026-06.xlsx,INV-060092,2026-06-18,2026-06,South,Keyboard,18,1400,25200.0,OK
+branch_sales_2026-06.xlsx,INV-060094,2026-06-18,2026-06,South,Webcam,3,3150,9450.0,OK
+branch_sales_2026-06.xlsx,INV-060065,2026-06-19,2026-06,West,Laptop Stand,17,1800,30600.0,OK
+branch_sales_2026-06.xlsx,INV-060066,2026-06-19,2026-06,West,Laptop Stand,19,1850,35150.0,OK
+branch_sales_2026-06.xlsx,INV-060081,2026-06-19,2026-06,North,USB-C Hub,19,2200,41800.0,OK
+branch_sales_2026-06.xlsx,INV-060017,2026-06-20,2026-06,South,USB-C Hub,18,2200,39600.0,OK
+branch_sales_2026-06.xlsx,INV-060025,2026-06-20,2026-06,East,Webcam,16,3100,49600.0,OK
+branch_sales_2026-06.xlsx,INV-060067,2026-06-20,2026-06,South,Webcam,1,3050,3050.0,OK
+branch_sales_2026-06.xlsx,INV-060080,2026-06-20,2026-06,North,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-06.xlsx,INV-060034,2026-06-21,2026-06,North,Laptop Stand,7,1750,12250.0,OK
+branch_sales_2026-06.xlsx,INV-060043,2026-06-21,2026-06,North,Keyboard,18,1500,27000.0,OK
+branch_sales_2026-06.xlsx,INV-060024,2026-06-22,2026-06,East,USB-C Hub,12,2200,26400.0,OK
+branch_sales_2026-06.xlsx,INV-060103,2026-06-22,2026-06,East,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-06.xlsx,INV-060020,2026-06-23,2026-06,West,USB-C Hub,19,2200,41800.0,OK
+branch_sales_2026-06.xlsx,INV-060021,2026-06-23,2026-06,South,Keyboard,18,1400,25200.0,OK
+branch_sales_2026-06.xlsx,INV-060046,2026-06-23,2026-06,North,Keyboard,16,1450,23200.0,OK
+branch_sales_2026-06.xlsx,INV-060062,2026-06-23,2026-06,North,Keyboard,9,1450,13050.0,OK
+branch_sales_2026-06.xlsx,INV-060012,2026-06-24,2026-06,East,Wireless Mouse,9,650,5850.0,OK
+branch_sales_2026-06.xlsx,INV-060052,2026-06-24,2026-06,South,Webcam,12,3150,37800.0,OK
+branch_sales_2026-06.xlsx,INV-060071,2026-06-24,2026-06,West,USB-C Hub,10,2200,22000.0,OK
+branch_sales_2026-06.xlsx,INV-060107,2026-06-24,2026-06,North,Wireless Mouse,19,700,13300.0,OK
+branch_sales_2026-06.xlsx,INV-060079,2026-06-25,2026-06,East,Webcam,1,3050,3050.0,OK
+branch_sales_2026-06.xlsx,INV-060040,2026-06-26,2026-06,East,USB-C Hub,5,2200,11000.0,OK
+branch_sales_2026-06.xlsx,INV-060060,2026-06-26,2026-06,East,Wireless Mouse,8,600,4800.0,OK
+branch_sales_2026-06.xlsx,INV-060083,2026-06-26,2026-06,North,Laptop Stand,13,1850,24050.0,OK
+branch_sales_2026-06.xlsx,INV-060014,2026-06-27,2026-06,North,Webcam,11,3150,34650.0,OK
+branch_sales_2026-06.xlsx,INV-060026,2026-06-27,2026-06,South,USB-C Hub,16,2200,35200.0,OK
+branch_sales_2026-06.xlsx,INV-060050,2026-06-27,2026-06,West,Wireless Mouse,8,650,5200.0,OK
+branch_sales_2026-06.xlsx,INV-060064,2026-06-27,2026-06,North,USB-C Hub,2,2200,4400.0,OK
+branch_sales_2026-06.xlsx,INV-060088,2026-06-27,2026-06,West,Keyboard,7,1450,10150.0,OK
+branch_sales_2026-06.xlsx,INV-060100,2026-06-27,2026-06,South,Webcam,11,3100,34100.0,OK
+branch_sales_2026-06.xlsx,INV-060102,2026-06-27,2026-06,West,Webcam,16,3100,49600.0,OK
+branch_sales_2026-06.xlsx,INV-060030,2026-06-28,2026-06,East,Laptop Stand,18,1750,31500.0,OK
+branch_sales_2026-06.xlsx,INV-060049,2026-06-28,2026-06,South,Laptop Stand,14,1850,25900.0,OK
+branch_sales_2026-07.xlsx,INV-070091,2026-07-01,2026-07,West,USB-C Hub,9,2200,19800.0,OK
+branch_sales_2026-07.xlsx,INV-070058,2026-07-02,2026-07,North,Laptop Stand,6,1800,10800.0,OK
+branch_sales_2026-07.xlsx,INV-070063,2026-07-02,2026-07,North,Wireless Mouse,18,700,12600.0,OK
+branch_sales_2026-07.xlsx,INV-070093,2026-07-02,2026-07,West,USB-C Hub,16,2150,34400.0,OK
+branch_sales_2026-07.xlsx,INV-070028,2026-07-03,2026-07,West,USB-C Hub,15,2200,33000.0,OK
+branch_sales_2026-07.xlsx,INV-070033,2026-07-03,2026-07,North,Laptop Stand,14,1850,25900.0,OK
+branch_sales_2026-07.xlsx,INV-070106,2026-07-03,2026-07,South,Webcam,12,3150,37800.0,OK
+branch_sales_2026-07.xlsx,INV-070002,2026-07-04,2026-07,North,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-07.xlsx,INV-070025,2026-07-04,2026-07,West,Wireless Mouse,4,700,2800.0,OK
+branch_sales_2026-07.xlsx,INV-070029,2026-07-04,2026-07,West,Laptop Stand,18,1800,32400.0,OK
+branch_sales_2026-07.xlsx,INV-070047,2026-07-04,2026-07,South,Keyboard,1,1450,1450.0,OK
+branch_sales_2026-07.xlsx,INV-070056,2026-07-04,2026-07,West,USB-C Hub,9,2250,20250.0,OK
+branch_sales_2026-07.xlsx,INV-070060,2026-07-04,2026-07,North,Keyboard,17,1400,23800.0,OK
+branch_sales_2026-07.xlsx,INV-070062,2026-07-04,2026-07,West,Laptop Stand,3,1800,5400.0,OK
+branch_sales_2026-07.xlsx,INV-070072,2026-07-04,2026-07,North,Wireless Mouse,13,700,9100.0,OK
+branch_sales_2026-07.xlsx,INV-070008,2026-07-06,2026-07,South,Laptop Stand,13,1800,23400.0,OK
+branch_sales_2026-07.xlsx,INV-070012,2026-07-06,2026-07,South,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-07.xlsx,INV-070022,2026-07-06,2026-07,West,Webcam,13,3050,39650.0,OK
+branch_sales_2026-07.xlsx,INV-070104,2026-07-06,2026-07,West,USB-C Hub,10,2250,22500.0,OK
+branch_sales_2026-07.xlsx,INV-070045,2026-07-07,2026-07,East,Keyboard,6,1500,9000.0,OK
+branch_sales_2026-07.xlsx,INV-070065,2026-07-07,2026-07,South,Laptop Stand,10,1850,18500.0,OK
+branch_sales_2026-07.xlsx,INV-070071,2026-07-07,2026-07,North,USB-C Hub,10,2200,22000.0,OK
+branch_sales_2026-07.xlsx,INV-070075,2026-07-07,2026-07,East,USB-C Hub,3,2200,6600.0,OK
+branch_sales_2026-07.xlsx,INV-070095,2026-07-07,2026-07,East,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-07.xlsx,INV-070101,2026-07-07,2026-07,North,Webcam,4,3100,12400.0,OK
+branch_sales_2026-07.xlsx,INV-070027,2026-07-08,2026-07,North,USB-C Hub,1,2200,2200.0,OK
+branch_sales_2026-07.xlsx,INV-070042,2026-07-08,2026-07,West,Keyboard,6,1400,8400.0,OK
+branch_sales_2026-07.xlsx,INV-070100,2026-07-08,2026-07,East,Webcam,7,3100,21700.0,OK
+branch_sales_2026-07.xlsx,INV-070039,2026-07-09,2026-07,East,Webcam,8,3100,24800.0,OK
+branch_sales_2026-07.xlsx,INV-070043,2026-07-09,2026-07,East,Laptop Stand,20,1750,35000.0,OK
+branch_sales_2026-07.xlsx,INV-070066,2026-07-09,2026-07,West,Keyboard,20,1450,29000.0,OK
+branch_sales_2026-07.xlsx,INV-070070,2026-07-09,2026-07,South,Webcam,20,3050,61000.0,OK
+branch_sales_2026-07.xlsx,INV-070087,2026-07-09,2026-07,East,Webcam,16,3100,49600.0,OK
+branch_sales_2026-07.xlsx,INV-070108,2026-07-09,2026-07,North,USB-C Hub,11,2200,24200.0,OK
+branch_sales_2026-07.xlsx,INV-070013,2026-07-10,2026-07,South,Wireless Mouse,19,700,13300.0,OK
+branch_sales_2026-07.xlsx,INV-070057,2026-07-10,2026-07,South,USB-C Hub,7,2200,15400.0,OK
+branch_sales_2026-07.xlsx,INV-070061,2026-07-10,2026-07,South,Wireless Mouse,14,650,9100.0,OK
+branch_sales_2026-07.xlsx,INV-070069,2026-07-10,2026-07,South,Laptop Stand,14,1800,25200.0,OK
+branch_sales_2026-07.xlsx,INV-070085,2026-07-10,2026-07,West,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-07.xlsx,INV-070088,2026-07-10,2026-07,North,USB-C Hub,2,2200,4400.0,OK
+branch_sales_2026-07.xlsx,INV-070089,2026-07-10,2026-07,South,Webcam,7,3100,21700.0,OK
+branch_sales_2026-07.xlsx,INV-070030,2026-07-11,2026-07,North,Keyboard,4,1450,5800.0,OK
+branch_sales_2026-07.xlsx,INV-070041,2026-07-11,2026-07,East,Webcam,19,3050,57950.0,OK
+branch_sales_2026-07.xlsx,INV-070021,2026-07-12,2026-07,South,Laptop Stand,8,1800,14400.0,OK
+branch_sales_2026-07.xlsx,INV-070024,2026-07-12,2026-07,North,Laptop Stand,3,1750,5250.0,OK
+branch_sales_2026-07.xlsx,INV-070031,2026-07-12,2026-07,West,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-07.xlsx,INV-070035,2026-07-12,2026-07,South,Laptop Stand,14,1800,25200.0,OK
+branch_sales_2026-07.xlsx,INV-070052,2026-07-12,2026-07,East,Laptop Stand,13,1800,23400.0,OK
+branch_sales_2026-07.xlsx,INV-070073,2026-07-12,2026-07,East,Webcam,1,3100,3100.0,OK
+branch_sales_2026-07.xlsx,INV-070001,2026-07-13,2026-07,North,Laptop Stand,19,1850,35150.0,OK
+branch_sales_2026-07.xlsx,INV-070103,2026-07-13,2026-07,East,Wireless Mouse,20,650,13000.0,OK
+branch_sales_2026-07.xlsx,INV-070019,2026-07-14,2026-07,East,Keyboard,13,1500,19500.0,OK
+branch_sales_2026-07.xlsx,INV-070036,2026-07-14,2026-07,South,Laptop Stand,18,1800,32400.0,OK
+branch_sales_2026-07.xlsx,INV-070037,2026-07-14,2026-07,North,Laptop Stand,6,1800,10800.0,OK
+branch_sales_2026-07.xlsx,INV-070054,2026-07-14,2026-07,North,Webcam,20,3100,62000.0,OK
+branch_sales_2026-07.xlsx,INV-070097,2026-07-14,2026-07,North,Webcam,20,3100,62000.0,OK
+branch_sales_2026-07.xlsx,INV-070014,2026-07-15,2026-07,East,Webcam,2,3150,6300.0,OK
+branch_sales_2026-07.xlsx,INV-070034,2026-07-15,2026-07,West,Webcam,15,3100,46500.0,OK
+branch_sales_2026-07.xlsx,INV-070110,2026-07-15,2026-07,East,Wireless Mouse,8,650,5200.0,OK
+branch_sales_2026-07.xlsx,INV-070005,2026-07-16,2026-07,North,USB-C Hub,6,2200,13200.0,OK
+branch_sales_2026-07.xlsx,INV-070098,2026-07-16,2026-07,North,Wireless Mouse,13,700,9100.0,OK
+branch_sales_2026-07.xlsx,INV-070044,2026-07-17,2026-07,East,Webcam,14,3100,43400.0,OK
+branch_sales_2026-07.xlsx,INV-070092,2026-07-17,2026-07,South,Webcam,18,3100,55800.0,OK
+branch_sales_2026-07.xlsx,INV-070016,2026-07-18,2026-07,East,USB-C Hub,8,2250,18000.0,OK
+branch_sales_2026-07.xlsx,INV-070076,2026-07-18,2026-07,North,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-07.xlsx,INV-070079,2026-07-18,2026-07,East,USB-C Hub,13,2200,28600.0,OK
+branch_sales_2026-07.xlsx,INV-070090,2026-07-18,2026-07,South,Laptop Stand,11,1800,19800.0,OK
+branch_sales_2026-07.xlsx,INV-070074,2026-07-19,2026-07,South,Laptop Stand,18,1800,32400.0,OK
+branch_sales_2026-07.xlsx,INV-070080,2026-07-19,2026-07,South,Webcam,7,3100,21700.0,OK
+branch_sales_2026-07.xlsx,INV-070006,2026-07-20,2026-07,South,Keyboard,7,1450,10150.0,OK
+branch_sales_2026-07.xlsx,INV-070009,2026-07-20,2026-07,South,USB-C Hub,13,2150,27950.0,OK
+branch_sales_2026-07.xlsx,INV-070010,2026-07-20,2026-07,West,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-07.xlsx,INV-070026,2026-07-20,2026-07,West,USB-C Hub,4,2150,8600.0,OK
+branch_sales_2026-07.xlsx,INV-070048,2026-07-20,2026-07,North,Keyboard,11,1450,15950.0,OK
+branch_sales_2026-07.xlsx,INV-070050,2026-07-20,2026-07,West,Webcam,12,3100,37200.0,OK
+branch_sales_2026-07.xlsx,INV-070107,2026-07-20,2026-07,West,Keyboard,19,1400,26600.0,OK
+branch_sales_2026-07.xlsx,INV-070082,2026-07-21,2026-07,East,Keyboard,20,1450,29000.0,OK
+branch_sales_2026-07.xlsx,INV-070049,2026-07-22,2026-07,West,USB-C Hub,14,2250,31500.0,OK
+branch_sales_2026-07.xlsx,INV-070007,2026-07-23,2026-07,East,USB-C Hub,8,2250,18000.0,OK
+branch_sales_2026-07.xlsx,INV-070011,2026-07-23,2026-07,South,USB-C Hub,15,2200,33000.0,OK
+branch_sales_2026-07.xlsx,INV-070059,2026-07-23,2026-07,West,USB-C Hub,18,2150,38700.0,OK
+branch_sales_2026-07.xlsx,INV-070067,2026-07-23,2026-07,West,Laptop Stand,15,1800,27000.0,OK
+branch_sales_2026-07.xlsx,INV-070077,2026-07-23,2026-07,East,Wireless Mouse,18,700,12600.0,OK
+branch_sales_2026-07.xlsx,INV-070094,2026-07-23,2026-07,East,Webcam,11,3100,34100.0,OK
+branch_sales_2026-07.xlsx,INV-070099,2026-07-23,2026-07,North,USB-C Hub,9,2200,19800.0,OK
+branch_sales_2026-07.xlsx,INV-070004,2026-07-24,2026-07,West,USB-C Hub,15,2200,33000.0,OK
+branch_sales_2026-07.xlsx,INV-070015,2026-07-24,2026-07,East,Laptop Stand,17,1750,29750.0,OK
+branch_sales_2026-07.xlsx,INV-070102,2026-07-24,2026-07,South,Keyboard,12,1500,18000.0,OK
+branch_sales_2026-07.xlsx,INV-070018,2026-07-25,2026-07,North,Webcam,8,3050,24400.0,OK
+branch_sales_2026-07.xlsx,INV-070040,2026-07-25,2026-07,East,Laptop Stand,3,1850,5550.0,OK
+branch_sales_2026-07.xlsx,INV-070051,2026-07-25,2026-07,West,Webcam,11,3050,33550.0,OK
+branch_sales_2026-07.xlsx,INV-070064,2026-07-25,2026-07,West,USB-C Hub,12,2250,27000.0,OK
+branch_sales_2026-07.xlsx,INV-070081,2026-07-25,2026-07,North,Wireless Mouse,16,650,10400.0,OK
+branch_sales_2026-07.xlsx,INV-070017,2026-07-26,2026-07,East,Keyboard,12,1400,16800.0,OK
+branch_sales_2026-07.xlsx,INV-070053,2026-07-26,2026-07,East,USB-C Hub,1,2250,2250.0,OK
+branch_sales_2026-07.xlsx,INV-070078,2026-07-26,2026-07,South,Wireless Mouse,5,650,3250.0,OK
+branch_sales_2026-07.xlsx,INV-070083,2026-07-26,2026-07,East,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-07.xlsx,INV-070086,2026-07-26,2026-07,North,Laptop Stand,10,1800,18000.0,OK
+branch_sales_2026-07.xlsx,INV-070096,2026-07-26,2026-07,North,Webcam,3,3050,9150.0,OK
+branch_sales_2026-07.xlsx,INV-070046,2026-07-27,2026-07,East,Keyboard,9,1450,13050.0,OK
+branch_sales_2026-07.xlsx,INV-070068,2026-07-27,2026-07,North,Webcam,5,3150,15750.0,OK
+branch_sales_2026-07.xlsx,INV-070105,2026-07-27,2026-07,South,Webcam,14,3050,42700.0,OK
+branch_sales_2026-07.xlsx,INV-070003,2026-07-28,2026-07,West,Webcam,15,3100,46500.0,OK
+branch_sales_2026-07.xlsx,INV-070020,2026-07-28,2026-07,West,Wireless Mouse,19,600,11400.0,OK
+branch_sales_2026-07.xlsx,INV-070032,2026-07-28,2026-07,South,Laptop Stand,14,1750,24500.0,OK
+branch_sales_2026-07.xlsx,INV-070038,2026-07-28,2026-07,East,Wireless Mouse,20,600,12000.0,OK
+branch_sales_2026-07.xlsx,INV-070055,2026-07-28,2026-07,North,USB-C Hub,18,2150,38700.0,OK
+branch_sales_2026-07.xlsx,INV-070084,2026-07-28,2026-07,North,Wireless Mouse,16,650,10400.0,OK
+branch_sales_2026-07.xlsx,INV-070109,2026-07-28,2026-07,North,Wireless Mouse,6,650,3900.0,OK
+branch_sales_2026-08.xlsx,INV-080022,2026-08-01,2026-08,South,Wireless Mouse,8,650,5200.0,OK
+branch_sales_2026-08.xlsx,INV-080024,2026-08-01,2026-08,West,Laptop Stand,6,1800,10800.0,OK
+branch_sales_2026-08.xlsx,INV-080045,2026-08-01,2026-08,South,USB-C Hub,13,2200,28600.0,OK
+branch_sales_2026-08.xlsx,INV-080048,2026-08-01,2026-08,North,USB-C Hub,11,2200,24200.0,OK
+branch_sales_2026-08.xlsx,INV-080069,2026-08-01,2026-08,South,Wireless Mouse,12,650,7800.0,OK
+branch_sales_2026-08.xlsx,INV-080070,2026-08-01,2026-08,East,USB-C Hub,3,2200,6600.0,OK
+branch_sales_2026-08.xlsx,INV-080090,2026-08-01,2026-08,East,Keyboard,13,1400,18200.0,OK
+branch_sales_2026-08.xlsx,INV-080093,2026-08-01,2026-08,South,USB-C Hub,18,2250,40500.0,OK
+branch_sales_2026-08.xlsx,INV-080015,2026-08-02,2026-08,West,Laptop Stand,4,1750,7000.0,OK
+branch_sales_2026-08.xlsx,INV-080023,2026-08-02,2026-08,South,Laptop Stand,1,1800,1800.0,OK
+branch_sales_2026-08.xlsx,INV-080027,2026-08-02,2026-08,West,Laptop Stand,14,1800,25200.0,OK
+branch_sales_2026-08.xlsx,INV-080028,2026-08-02,2026-08,West,Keyboard,5,1450,7250.0,OK
+branch_sales_2026-08.xlsx,INV-080037,2026-08-02,2026-08,East,Webcam,8,3150,25200.0,OK
+branch_sales_2026-08.xlsx,INV-080047,2026-08-02,2026-08,West,Webcam,4,3100,12400.0,OK
+branch_sales_2026-08.xlsx,INV-080056,2026-08-02,2026-08,South,Laptop Stand,5,1800,9000.0,OK
+branch_sales_2026-08.xlsx,INV-080065,2026-08-02,2026-08,North,Keyboard,14,1400,19600.0,OK
+branch_sales_2026-08.xlsx,INV-080078,2026-08-02,2026-08,East,USB-C Hub,12,2200,26400.0,OK
+branch_sales_2026-08.xlsx,INV-080083,2026-08-02,2026-08,South,USB-C Hub,3,2250,6750.0,OK
+branch_sales_2026-08.xlsx,INV-080087,2026-08-02,2026-08,South,USB-C Hub,9,2250,20250.0,OK
+branch_sales_2026-08.xlsx,INV-080106,2026-08-02,2026-08,East,Webcam,9,3100,27900.0,OK
+branch_sales_2026-08.xlsx,INV-080013,2026-08-03,2026-08,East,Laptop Stand,2,1800,3600.0,OK
+branch_sales_2026-08.xlsx,INV-080060,2026-08-03,2026-08,North,Wireless Mouse,4,650,2600.0,OK
+branch_sales_2026-08.xlsx,INV-080062,2026-08-03,2026-08,South,Webcam,4,3100,12400.0,OK
+branch_sales_2026-08.xlsx,INV-080064,2026-08-03,2026-08,East,Webcam,18,3100,55800.0,OK
+branch_sales_2026-08.xlsx,INV-080101,2026-08-03,2026-08,West,Laptop Stand,1,1800,1800.0,OK
+branch_sales_2026-08.xlsx,INV-080026,2026-08-04,2026-08,South,USB-C Hub,6,2200,13200.0,OK
+branch_sales_2026-08.xlsx,INV-080033,2026-08-04,2026-08,South,USB-C Hub,4,2150,8600.0,OK
+branch_sales_2026-08.xlsx,INV-080038,2026-08-04,2026-08,South,Webcam,14,3150,44100.0,OK
+branch_sales_2026-08.xlsx,INV-080041,2026-08-04,2026-08,East,Webcam,13,3100,40300.0,OK
+branch_sales_2026-08.xlsx,INV-080067,2026-08-04,2026-08,South,Webcam,2,3100,6200.0,OK
+branch_sales_2026-08.xlsx,INV-080008,2026-08-06,2026-08,East,Keyboard,16,1450,23200.0,OK
+branch_sales_2026-08.xlsx,INV-080076,2026-08-06,2026-08,South,Wireless Mouse,13,600,7800.0,OK
+branch_sales_2026-08.xlsx,INV-080079,2026-08-06,2026-08,East,USB-C Hub,17,2250,38250.0,OK
+branch_sales_2026-08.xlsx,INV-080103,2026-08-06,2026-08,North,Laptop Stand,1,1850,1850.0,OK
+branch_sales_2026-08.xlsx,INV-080025,2026-08-07,2026-08,West,Webcam,14,3100,43400.0,OK
+branch_sales_2026-08.xlsx,INV-080058,2026-08-07,2026-08,West,USB-C Hub,5,2200,11000.0,OK
+branch_sales_2026-08.xlsx,INV-080107,2026-08-07,2026-08,East,Laptop Stand,15,1850,27750.0,OK
+branch_sales_2026-08.xlsx,INV-080006,2026-08-08,2026-08,South,USB-C Hub,11,2150,23650.0,OK
+branch_sales_2026-08.xlsx,INV-080042,2026-08-08,2026-08,South,Webcam,5,3150,15750.0,OK
+branch_sales_2026-08.xlsx,INV-080050,2026-08-08,2026-08,West,Wireless Mouse,6,650,3900.0,OK
+branch_sales_2026-08.xlsx,INV-080088,2026-08-08,2026-08,South,Wireless Mouse,15,600,9000.0,OK
+branch_sales_2026-08.xlsx,INV-080007,2026-08-09,2026-08,East,Keyboard,1,1450,1450.0,OK
+branch_sales_2026-08.xlsx,INV-080010,2026-08-09,2026-08,South,USB-C Hub,1,2250,2250.0,OK
+branch_sales_2026-08.xlsx,INV-080040,2026-08-09,2026-08,East,Keyboard,5,1450,7250.0,OK
+branch_sales_2026-08.xlsx,INV-080091,2026-08-09,2026-08,East,USB-C Hub,20,2250,45000.0,OK
+branch_sales_2026-08.xlsx,INV-080035,2026-08-10,2026-08,West,Webcam,13,3100,40300.0,OK
+branch_sales_2026-08.xlsx,INV-080059,2026-08-10,2026-08,North,Webcam,11,3100,34100.0,OK
+branch_sales_2026-08.xlsx,INV-080080,2026-08-10,2026-08,West,Wireless Mouse,5,650,3250.0,OK
+branch_sales_2026-08.xlsx,INV-080082,2026-08-10,2026-08,West,USB-C Hub,13,2250,29250.0,OK
+branch_sales_2026-08.xlsx,INV-080105,2026-08-10,2026-08,South,Wireless Mouse,17,700,11900.0,OK
+branch_sales_2026-08.xlsx,INV-080003,2026-08-11,2026-08,West,Laptop Stand,17,1850,31450.0,OK
+branch_sales_2026-08.xlsx,INV-080085,2026-08-11,2026-08,West,Laptop Stand,19,1800,34200.0,OK
+branch_sales_2026-08.xlsx,INV-080086,2026-08-12,2026-08,West,Webcam,19,3100,58900.0,OK
+branch_sales_2026-08.xlsx,INV-080096,2026-08-12,2026-08,North,Laptop Stand,10,1850,18500.0,OK
+branch_sales_2026-08.xlsx,INV-080011,2026-08-13,2026-08,West,Laptop Stand,12,1750,21000.0,OK
+branch_sales_2026-08.xlsx,INV-080021,2026-08-13,2026-08,North,Wireless Mouse,3,650,1950.0,OK
+branch_sales_2026-08.xlsx,INV-080089,2026-08-13,2026-08,North,Keyboard,15,1500,22500.0,OK
+branch_sales_2026-08.xlsx,INV-080020,2026-08-14,2026-08,East,Webcam,4,3100,12400.0,OK
+branch_sales_2026-08.xlsx,INV-080081,2026-08-14,2026-08,West,USB-C Hub,6,2200,13200.0,OK
+branch_sales_2026-08.xlsx,INV-080100,2026-08-14,2026-08,West,Keyboard,8,1450,11600.0,OK
+branch_sales_2026-08.xlsx,INV-080102,2026-08-14,2026-08,South,Laptop Stand,6,1800,10800.0,OK
+branch_sales_2026-08.xlsx,INV-080108,2026-08-14,2026-08,South,Webcam,7,3100,21700.0,OK
+branch_sales_2026-08.xlsx,INV-080009,2026-08-15,2026-08,South,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-08.xlsx,INV-080018,2026-08-15,2026-08,East,Laptop Stand,2,1800,3600.0,OK
+branch_sales_2026-08.xlsx,INV-080049,2026-08-15,2026-08,South,Keyboard,4,1450,5800.0,OK
+branch_sales_2026-08.xlsx,INV-080110,2026-08-15,2026-08,North,Webcam,6,3050,18300.0,OK
+branch_sales_2026-08.xlsx,INV-080017,2026-08-16,2026-08,East,Wireless Mouse,2,650,1300.0,OK
+branch_sales_2026-08.xlsx,INV-080029,2026-08-16,2026-08,South,Laptop Stand,16,1800,28800.0,OK
+branch_sales_2026-08.xlsx,INV-080077,2026-08-16,2026-08,West,Keyboard,16,1500,24000.0,OK
+branch_sales_2026-08.xlsx,INV-080095,2026-08-16,2026-08,West,USB-C Hub,17,2250,38250.0,OK
+branch_sales_2026-08.xlsx,INV-080097,2026-08-16,2026-08,North,Keyboard,6,1400,8400.0,OK
+branch_sales_2026-08.xlsx,INV-080019,2026-08-17,2026-08,North,Keyboard,15,1500,22500.0,OK
+branch_sales_2026-08.xlsx,INV-080044,2026-08-17,2026-08,South,Wireless Mouse,5,650,3250.0,OK
+branch_sales_2026-08.xlsx,INV-080046,2026-08-17,2026-08,East,Wireless Mouse,1,700,700.0,OK
+branch_sales_2026-08.xlsx,INV-080052,2026-08-17,2026-08,North,Wireless Mouse,13,700,9100.0,OK
+branch_sales_2026-08.xlsx,INV-080055,2026-08-17,2026-08,West,USB-C Hub,2,2250,4500.0,OK
+branch_sales_2026-08.xlsx,INV-080074,2026-08-17,2026-08,East,Webcam,8,3100,24800.0,OK
+branch_sales_2026-08.xlsx,INV-080057,2026-08-18,2026-08,East,Webcam,13,3050,39650.0,OK
+branch_sales_2026-08.xlsx,INV-080071,2026-08-18,2026-08,North,Wireless Mouse,9,600,5400.0,OK
+branch_sales_2026-08.xlsx,INV-080030,2026-08-19,2026-08,North,Keyboard,7,1450,10150.0,OK
+branch_sales_2026-08.xlsx,INV-080043,2026-08-19,2026-08,North,Laptop Stand,6,1750,10500.0,OK
+branch_sales_2026-08.xlsx,INV-080051,2026-08-19,2026-08,West,USB-C Hub,7,2250,15750.0,OK
+branch_sales_2026-08.xlsx,INV-080073,2026-08-19,2026-08,South,Laptop Stand,5,1750,8750.0,OK
+branch_sales_2026-08.xlsx,INV-080084,2026-08-20,2026-08,East,Wireless Mouse,2,700,1400.0,OK
+branch_sales_2026-08.xlsx,INV-080014,2026-08-21,2026-08,West,Wireless Mouse,1,650,650.0,OK
+branch_sales_2026-08.xlsx,INV-080053,2026-08-21,2026-08,West,Keyboard,4,1450,5800.0,OK
+branch_sales_2026-08.xlsx,INV-080054,2026-08-21,2026-08,South,Laptop Stand,4,1800,7200.0,OK
+branch_sales_2026-08.xlsx,INV-080068,2026-08-21,2026-08,East,Laptop Stand,6,1800,10800.0,OK
+branch_sales_2026-08.xlsx,INV-080104,2026-08-21,2026-08,East,Webcam,5,3050,15250.0,OK
+branch_sales_2026-08.xlsx,INV-080109,2026-08-21,2026-08,West,Wireless Mouse,14,650,9100.0,OK
+branch_sales_2026-08.xlsx,INV-080098,2026-08-22,2026-08,South,Wireless Mouse,14,600,8400.0,OK
+branch_sales_2026-08.xlsx,INV-080002,2026-08-23,2026-08,West,Laptop Stand,9,1800,16200.0,OK
+branch_sales_2026-08.xlsx,INV-080005,2026-08-23,2026-08,South,USB-C Hub,2,2200,4400.0,OK
+branch_sales_2026-08.xlsx,INV-080004,2026-08-24,2026-08,North,USB-C Hub,3,2250,6750.0,OK
+branch_sales_2026-08.xlsx,INV-080031,2026-08-24,2026-08,North,Wireless Mouse,16,650,10400.0,OK
+branch_sales_2026-08.xlsx,INV-080061,2026-08-24,2026-08,West,Laptop Stand,7,1850,12950.0,OK
+branch_sales_2026-08.xlsx,INV-080012,2026-08-25,2026-08,North,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-08.xlsx,INV-080016,2026-08-25,2026-08,South,Laptop Stand,20,1800,36000.0,OK
+branch_sales_2026-08.xlsx,INV-080063,2026-08-25,2026-08,East,USB-C Hub,8,2200,17600.0,OK
+branch_sales_2026-08.xlsx,INV-080066,2026-08-25,2026-08,South,Laptop Stand,9,1800,16200.0,OK
+branch_sales_2026-08.xlsx,INV-080072,2026-08-26,2026-08,North,Keyboard,10,1450,14500.0,OK
+branch_sales_2026-08.xlsx,INV-080075,2026-08-26,2026-08,South,Wireless Mouse,5,650,3250.0,OK
+branch_sales_2026-08.xlsx,INV-080092,2026-08-26,2026-08,South,Laptop Stand,15,1800,27000.0,OK
+branch_sales_2026-08.xlsx,INV-080099,2026-08-26,2026-08,West,Wireless Mouse,19,650,12350.0,OK
+branch_sales_2026-08.xlsx,INV-080001,2026-08-27,2026-08,East,Webcam,9,3100,27900.0,OK
+branch_sales_2026-08.xlsx,INV-080032,2026-08-27,2026-08,West,Wireless Mouse,4,700,2800.0,OK
+branch_sales_2026-08.xlsx,INV-080036,2026-08-27,2026-08,East,USB-C Hub,9,2200,19800.0,OK
+branch_sales_2026-08.xlsx,INV-080039,2026-08-27,2026-08,South,USB-C Hub,15,2150,32250.0,OK
+branch_sales_2026-08.xlsx,INV-080094,2026-08-27,2026-08,North,Wireless Mouse,13,700,9100.0,OK
+branch_sales_2026-09.xlsx,INV-090019,2026-09-01,2026-09,East,Webcam,17,3100,52700.0,OK
+branch_sales_2026-09.xlsx,INV-090072,2026-09-01,2026-09,West,Laptop Stand,3,1750,5250.0,OK
+branch_sales_2026-09.xlsx,INV-090029,2026-09-02,2026-09,North,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-09.xlsx,INV-090016,2026-09-03,2026-09,East,USB-C Hub,20,2200,44000.0,OK
+branch_sales_2026-09.xlsx,INV-090025,2026-09-03,2026-09,East,Laptop Stand,19,1800,34200.0,OK
+branch_sales_2026-09.xlsx,INV-090027,2026-09-03,2026-09,West,USB-C Hub,12,2200,26400.0,OK
+branch_sales_2026-09.xlsx,INV-090032,2026-09-03,2026-09,West,USB-C Hub,8,2200,17600.0,OK
+branch_sales_2026-09.xlsx,INV-090070,2026-09-03,2026-09,South,Webcam,9,3150,28350.0,OK
+branch_sales_2026-09.xlsx,INV-090086,2026-09-03,2026-09,South,Wireless Mouse,12,650,7800.0,OK
+branch_sales_2026-09.xlsx,INV-090020,2026-09-04,2026-09,North,USB-C Hub,4,2150,8600.0,OK
+branch_sales_2026-09.xlsx,INV-090021,2026-09-04,2026-09,East,Wireless Mouse,3,650,1950.0,OK
+branch_sales_2026-09.xlsx,INV-090005,2026-09-05,2026-09,West,Webcam,17,3150,53550.0,OK
+branch_sales_2026-09.xlsx,INV-090010,2026-09-05,2026-09,West,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-09.xlsx,INV-090044,2026-09-06,2026-09,North,Webcam,20,3150,63000.0,OK
+branch_sales_2026-09.xlsx,INV-090058,2026-09-06,2026-09,East,Wireless Mouse,6,650,3900.0,OK
+branch_sales_2026-09.xlsx,INV-090069,2026-09-06,2026-09,West,USB-C Hub,17,2200,37400.0,OK
+branch_sales_2026-09.xlsx,INV-090073,2026-09-06,2026-09,South,Wireless Mouse,2,600,1200.0,OK
+branch_sales_2026-09.xlsx,INV-090096,2026-09-06,2026-09,East,Webcam,5,3100,15500.0,OK
+branch_sales_2026-09.xlsx,INV-090099,2026-09-06,2026-09,South,Webcam,11,3050,33550.0,OK
+branch_sales_2026-09.xlsx,INV-090092,2026-09-07,2026-09,South,USB-C Hub,3,2150,6450.0,OK
+branch_sales_2026-09.xlsx,INV-090007,2026-09-08,2026-09,South,Keyboard,4,1450,5800.0,OK
+branch_sales_2026-09.xlsx,INV-090053,2026-09-08,2026-09,East,Laptop Stand,7,1800,12600.0,OK
+branch_sales_2026-09.xlsx,INV-090088,2026-09-08,2026-09,East,Wireless Mouse,9,700,6300.0,OK
+branch_sales_2026-09.xlsx,INV-090036,2026-09-09,2026-09,East,Keyboard,11,1450,15950.0,OK
+branch_sales_2026-09.xlsx,INV-090054,2026-09-09,2026-09,North,Webcam,17,3100,52700.0,OK
+branch_sales_2026-09.xlsx,INV-090110,2026-09-09,2026-09,South,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-09.xlsx,INV-090011,2026-09-10,2026-09,East,Wireless Mouse,13,650,8450.0,OK
+branch_sales_2026-09.xlsx,INV-090031,2026-09-10,2026-09,South,Keyboard,11,1400,15400.0,OK
+branch_sales_2026-09.xlsx,INV-090035,2026-09-10,2026-09,East,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-09.xlsx,INV-090050,2026-09-10,2026-09,West,USB-C Hub,17,2200,37400.0,OK
+branch_sales_2026-09.xlsx,INV-090085,2026-09-10,2026-09,South,Webcam,5,3100,15500.0,OK
+branch_sales_2026-09.xlsx,INV-090091,2026-09-10,2026-09,South,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-09.xlsx,INV-090014,2026-09-11,2026-09,West,Wireless Mouse,2,700,1400.0,OK
+branch_sales_2026-09.xlsx,INV-090040,2026-09-11,2026-09,West,Webcam,17,3100,52700.0,OK
+branch_sales_2026-09.xlsx,INV-090075,2026-09-11,2026-09,West,Keyboard,16,1450,23200.0,OK
+branch_sales_2026-09.xlsx,INV-090001,2026-09-12,2026-09,West,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-09.xlsx,INV-090028,2026-09-12,2026-09,North,Wireless Mouse,5,600,3000.0,OK
+branch_sales_2026-09.xlsx,INV-090038,2026-09-12,2026-09,South,Keyboard,14,1450,20300.0,OK
+branch_sales_2026-09.xlsx,INV-090100,2026-09-12,2026-09,West,Keyboard,6,1450,8700.0,OK
+branch_sales_2026-09.xlsx,INV-090042,2026-09-13,2026-09,West,Laptop Stand,12,1800,21600.0,OK
+branch_sales_2026-09.xlsx,INV-090084,2026-09-13,2026-09,North,Webcam,16,3100,49600.0,OK
+branch_sales_2026-09.xlsx,INV-090098,2026-09-13,2026-09,West,USB-C Hub,3,2200,6600.0,OK
+branch_sales_2026-09.xlsx,INV-090017,2026-09-14,2026-09,East,Laptop Stand,14,1750,24500.0,OK
+branch_sales_2026-09.xlsx,INV-090022,2026-09-14,2026-09,South,Laptop Stand,1,1800,1800.0,OK
+branch_sales_2026-09.xlsx,INV-090065,2026-09-14,2026-09,East,Webcam,12,3100,37200.0,OK
+branch_sales_2026-09.xlsx,INV-090071,2026-09-14,2026-09,South,USB-C Hub,7,2200,15400.0,OK
+branch_sales_2026-09.xlsx,INV-090103,2026-09-14,2026-09,North,Laptop Stand,12,1800,21600.0,OK
+branch_sales_2026-09.xlsx,INV-090023,2026-09-15,2026-09,East,Keyboard,20,1450,29000.0,OK
+branch_sales_2026-09.xlsx,INV-090046,2026-09-15,2026-09,South,Keyboard,9,1450,13050.0,OK
+branch_sales_2026-09.xlsx,INV-090048,2026-09-15,2026-09,West,Webcam,7,3150,22050.0,OK
+branch_sales_2026-09.xlsx,INV-090076,2026-09-15,2026-09,East,Keyboard,10,1450,14500.0,OK
+branch_sales_2026-09.xlsx,INV-090080,2026-09-15,2026-09,East,Laptop Stand,9,1850,16650.0,OK
+branch_sales_2026-09.xlsx,INV-090107,2026-09-15,2026-09,East,Wireless Mouse,7,650,4550.0,OK
+branch_sales_2026-09.xlsx,INV-090012,2026-09-16,2026-09,West,Keyboard,7,1400,9800.0,OK
+branch_sales_2026-09.xlsx,INV-090067,2026-09-16,2026-09,West,Laptop Stand,18,1750,31500.0,OK
+branch_sales_2026-09.xlsx,INV-090077,2026-09-16,2026-09,North,Keyboard,1,1450,1450.0,OK
+branch_sales_2026-09.xlsx,INV-090083,2026-09-16,2026-09,West,Keyboard,7,1500,10500.0,OK
+branch_sales_2026-09.xlsx,INV-090062,2026-09-17,2026-09,West,USB-C Hub,19,2150,40850.0,OK
+branch_sales_2026-09.xlsx,INV-090068,2026-09-17,2026-09,West,USB-C Hub,3,2200,6600.0,OK
+branch_sales_2026-09.xlsx,INV-090093,2026-09-17,2026-09,East,Laptop Stand,20,1800,36000.0,OK
+branch_sales_2026-09.xlsx,INV-090108,2026-09-17,2026-09,North,Keyboard,8,1400,11200.0,OK
+branch_sales_2026-09.xlsx,INV-090056,2026-09-18,2026-09,East,Laptop Stand,5,1850,9250.0,OK
+branch_sales_2026-09.xlsx,INV-090059,2026-09-18,2026-09,North,USB-C Hub,11,2200,24200.0,OK
+branch_sales_2026-09.xlsx,INV-090064,2026-09-18,2026-09,East,USB-C Hub,16,2200,35200.0,OK
+branch_sales_2026-09.xlsx,INV-090102,2026-09-18,2026-09,East,Webcam,19,3100,58900.0,OK
+branch_sales_2026-09.xlsx,INV-090006,2026-09-19,2026-09,North,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-09.xlsx,INV-090008,2026-09-19,2026-09,East,USB-C Hub,3,2250,6750.0,OK
+branch_sales_2026-09.xlsx,INV-090034,2026-09-19,2026-09,East,USB-C Hub,14,2200,30800.0,OK
+branch_sales_2026-09.xlsx,INV-090090,2026-09-19,2026-09,South,Webcam,6,3100,18600.0,OK
+branch_sales_2026-09.xlsx,INV-090037,2026-09-20,2026-09,East,Keyboard,13,1450,18850.0,OK
+branch_sales_2026-09.xlsx,INV-090079,2026-09-20,2026-09,South,Wireless Mouse,7,600,4200.0,OK
+branch_sales_2026-09.xlsx,INV-090002,2026-09-21,2026-09,South,Keyboard,15,1500,22500.0,OK
+branch_sales_2026-09.xlsx,INV-090003,2026-09-21,2026-09,North,USB-C Hub,3,2200,6600.0,OK
+branch_sales_2026-09.xlsx,INV-090033,2026-09-21,2026-09,West,Wireless Mouse,13,650,8450.0,OK
+branch_sales_2026-09.xlsx,INV-090045,2026-09-21,2026-09,North,USB-C Hub,8,2200,17600.0,OK
+branch_sales_2026-09.xlsx,INV-090049,2026-09-21,2026-09,North,Keyboard,18,1450,26100.0,OK
+branch_sales_2026-09.xlsx,INV-090009,2026-09-22,2026-09,East,Laptop Stand,20,1800,36000.0,OK
+branch_sales_2026-09.xlsx,INV-090026,2026-09-23,2026-09,West,USB-C Hub,10,2200,22000.0,OK
+branch_sales_2026-09.xlsx,INV-090041,2026-09-23,2026-09,East,Wireless Mouse,1,650,650.0,OK
+branch_sales_2026-09.xlsx,INV-090047,2026-09-23,2026-09,West,Laptop Stand,9,1850,16650.0,OK
+branch_sales_2026-09.xlsx,INV-090057,2026-09-23,2026-09,North,Webcam,10,3150,31500.0,OK
+branch_sales_2026-09.xlsx,INV-090097,2026-09-23,2026-09,South,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-09.xlsx,INV-090015,2026-09-24,2026-09,North,USB-C Hub,1,2200,2200.0,OK
+branch_sales_2026-09.xlsx,INV-090055,2026-09-24,2026-09,West,Webcam,13,3100,40300.0,OK
+branch_sales_2026-09.xlsx,INV-090039,2026-09-25,2026-09,East,USB-C Hub,18,2200,39600.0,OK
+branch_sales_2026-09.xlsx,INV-090063,2026-09-25,2026-09,West,Laptop Stand,20,1850,37000.0,OK
+branch_sales_2026-09.xlsx,INV-090066,2026-09-25,2026-09,West,USB-C Hub,7,2150,15050.0,OK
+branch_sales_2026-09.xlsx,INV-090074,2026-09-25,2026-09,North,USB-C Hub,11,2250,24750.0,OK
+branch_sales_2026-09.xlsx,INV-090081,2026-09-25,2026-09,East,Laptop Stand,7,1800,12600.0,OK
+branch_sales_2026-09.xlsx,INV-090087,2026-09-25,2026-09,North,Keyboard,16,1500,24000.0,OK
+branch_sales_2026-09.xlsx,INV-090109,2026-09-25,2026-09,East,Wireless Mouse,13,650,8450.0,OK
+branch_sales_2026-09.xlsx,INV-090004,2026-09-26,2026-09,North,Wireless Mouse,6,650,3900.0,OK
+branch_sales_2026-09.xlsx,INV-090043,2026-09-26,2026-09,East,USB-C Hub,14,2200,30800.0,OK
+branch_sales_2026-09.xlsx,INV-090060,2026-09-26,2026-09,West,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-09.xlsx,INV-090094,2026-09-26,2026-09,North,Webcam,10,3100,31000.0,OK
+branch_sales_2026-09.xlsx,INV-090095,2026-09-26,2026-09,West,USB-C Hub,13,2150,27950.0,OK
+branch_sales_2026-09.xlsx,INV-090101,2026-09-26,2026-09,South,Laptop Stand,12,1800,21600.0,OK
+branch_sales_2026-09.xlsx,INV-090018,2026-09-27,2026-09,North,Keyboard,11,1450,15950.0,OK
+branch_sales_2026-09.xlsx,INV-090024,2026-09-27,2026-09,North,Keyboard,3,1500,4500.0,OK
+branch_sales_2026-09.xlsx,INV-090051,2026-09-27,2026-09,North,Laptop Stand,9,1800,16200.0,OK
+branch_sales_2026-09.xlsx,INV-090052,2026-09-27,2026-09,West,Webcam,11,3050,33550.0,OK
+branch_sales_2026-09.xlsx,INV-090104,2026-09-27,2026-09,North,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-09.xlsx,INV-090106,2026-09-27,2026-09,East,Webcam,12,3100,37200.0,OK
+branch_sales_2026-09.xlsx,INV-090030,2026-09-28,2026-09,North,Keyboard,3,1450,4350.0,OK
+branch_sales_2026-09.xlsx,INV-090078,2026-09-28,2026-09,South,Webcam,19,3050,57950.0,OK
+branch_sales_2026-09.xlsx,INV-090082,2026-09-28,2026-09,South,Laptop Stand,11,1800,19800.0,OK
+branch_sales_2026-09.xlsx,INV-090089,2026-09-28,2026-09,North,Laptop Stand,8,1800,14400.0,OK
+branch_sales_2026-09.xlsx,INV-090105,2026-09-28,2026-09,East,Laptop Stand,3,1850,5550.0,OK
+branch_sales_2026-10.xlsx,INV-100033,2026-10-01,2026-10,West,Webcam,4,3100,12400.0,OK
+branch_sales_2026-10.xlsx,INV-100057,2026-10-02,2026-10,South,Wireless Mouse,13,700,9100.0,OK
+branch_sales_2026-10.xlsx,INV-100071,2026-10-02,2026-10,West,Webcam,8,3150,25200.0,OK
+branch_sales_2026-10.xlsx,INV-100075,2026-10-02,2026-10,West,USB-C Hub,19,2150,40850.0,OK
+branch_sales_2026-10.xlsx,INV-100092,2026-10-02,2026-10,West,Wireless Mouse,16,600,9600.0,OK
+branch_sales_2026-10.xlsx,INV-100026,2026-10-03,2026-10,West,Webcam,16,3100,49600.0,OK
+branch_sales_2026-10.xlsx,INV-100053,2026-10-03,2026-10,East,Wireless Mouse,6,700,4200.0,OK
+branch_sales_2026-10.xlsx,INV-100060,2026-10-03,2026-10,South,Webcam,16,3050,48800.0,OK
+branch_sales_2026-10.xlsx,INV-100061,2026-10-03,2026-10,North,Webcam,18,3100,55800.0,OK
+branch_sales_2026-10.xlsx,INV-100098,2026-10-03,2026-10,West,Wireless Mouse,16,650,10400.0,OK
+branch_sales_2026-10.xlsx,INV-100101,2026-10-03,2026-10,North,Webcam,17,3100,52700.0,OK
+branch_sales_2026-10.xlsx,INV-100104,2026-10-03,2026-10,West,Wireless Mouse,13,650,8450.0,OK
+branch_sales_2026-10.xlsx,INV-100109,2026-10-03,2026-10,South,Wireless Mouse,12,700,8400.0,OK
+branch_sales_2026-10.xlsx,INV-100023,2026-10-04,2026-10,West,Laptop Stand,4,1800,7200.0,OK
+branch_sales_2026-10.xlsx,INV-100046,2026-10-04,2026-10,North,Keyboard,7,1450,10150.0,OK
+branch_sales_2026-10.xlsx,INV-100096,2026-10-05,2026-10,North,Laptop Stand,7,1750,12250.0,OK
+branch_sales_2026-10.xlsx,INV-100024,2026-10-06,2026-10,South,Webcam,9,3100,27900.0,OK
+branch_sales_2026-10.xlsx,INV-100025,2026-10-06,2026-10,South,USB-C Hub,11,2200,24200.0,OK
+branch_sales_2026-10.xlsx,INV-100040,2026-10-06,2026-10,West,Webcam,8,3050,24400.0,OK
+branch_sales_2026-10.xlsx,INV-100099,2026-10-06,2026-10,North,Keyboard,6,1500,9000.0,OK
+branch_sales_2026-10.xlsx,INV-100018,2026-10-07,2026-10,North,Laptop Stand,1,1750,1750.0,OK
+branch_sales_2026-10.xlsx,INV-100043,2026-10-07,2026-10,South,Wireless Mouse,10,700,7000.0,OK
+branch_sales_2026-10.xlsx,INV-100085,2026-10-07,2026-10,South,Keyboard,15,1450,21750.0,OK
+branch_sales_2026-10.xlsx,INV-100020,2026-10-08,2026-10,East,Wireless Mouse,9,700,6300.0,OK
+branch_sales_2026-10.xlsx,INV-100032,2026-10-08,2026-10,West,Laptop Stand,11,1850,20350.0,OK
+branch_sales_2026-10.xlsx,INV-100035,2026-10-09,2026-10,South,Webcam,15,3050,45750.0,OK
+branch_sales_2026-10.xlsx,INV-100045,2026-10-09,2026-10,North,Webcam,18,3100,55800.0,OK
+branch_sales_2026-10.xlsx,INV-100089,2026-10-09,2026-10,South,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-10.xlsx,INV-100102,2026-10-09,2026-10,West,USB-C Hub,7,2200,15400.0,OK
+branch_sales_2026-10.xlsx,INV-100108,2026-10-09,2026-10,West,Webcam,15,3100,46500.0,OK
+branch_sales_2026-10.xlsx,INV-100110,2026-10-09,2026-10,North,Keyboard,7,1450,10150.0,OK
+branch_sales_2026-10.xlsx,INV-100006,2026-10-10,2026-10,East,USB-C Hub,20,2200,44000.0,OK
+branch_sales_2026-10.xlsx,INV-100038,2026-10-10,2026-10,East,Wireless Mouse,13,650,8450.0,OK
+branch_sales_2026-10.xlsx,INV-100048,2026-10-10,2026-10,North,Laptop Stand,19,1800,34200.0,OK
+branch_sales_2026-10.xlsx,INV-100073,2026-10-10,2026-10,West,Webcam,17,3100,52700.0,OK
+branch_sales_2026-10.xlsx,INV-100004,2026-10-11,2026-10,South,Wireless Mouse,10,650,6500.0,OK
+branch_sales_2026-10.xlsx,INV-100017,2026-10-11,2026-10,West,Wireless Mouse,2,700,1400.0,OK
+branch_sales_2026-10.xlsx,INV-100021,2026-10-11,2026-10,South,Wireless Mouse,10,700,7000.0,OK
+branch_sales_2026-10.xlsx,INV-100041,2026-10-11,2026-10,North,USB-C Hub,9,2250,20250.0,OK
+branch_sales_2026-10.xlsx,INV-100042,2026-10-11,2026-10,South,USB-C Hub,16,2250,36000.0,OK
+branch_sales_2026-10.xlsx,INV-100072,2026-10-11,2026-10,North,Wireless Mouse,4,650,2600.0,OK
+branch_sales_2026-10.xlsx,INV-100080,2026-10-11,2026-10,East,USB-C Hub,5,2150,10750.0,OK
+branch_sales_2026-10.xlsx,INV-100090,2026-10-11,2026-10,West,Wireless Mouse,16,650,10400.0,OK
+branch_sales_2026-10.xlsx,INV-100106,2026-10-11,2026-10,South,Keyboard,5,1450,7250.0,OK
+branch_sales_2026-10.xlsx,INV-100107,2026-10-11,2026-10,North,Laptop Stand,2,1850,3700.0,OK
+branch_sales_2026-10.xlsx,INV-100028,2026-10-12,2026-10,East,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-10.xlsx,INV-100049,2026-10-12,2026-10,West,Wireless Mouse,4,650,2600.0,OK
+branch_sales_2026-10.xlsx,INV-100054,2026-10-12,2026-10,North,USB-C Hub,11,2250,24750.0,OK
+branch_sales_2026-10.xlsx,INV-100065,2026-10-12,2026-10,East,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-10.xlsx,INV-100068,2026-10-12,2026-10,West,Laptop Stand,7,1800,12600.0,OK
+branch_sales_2026-10.xlsx,INV-100070,2026-10-12,2026-10,West,Wireless Mouse,19,650,12350.0,OK
+branch_sales_2026-10.xlsx,INV-100091,2026-10-12,2026-10,East,Wireless Mouse,2,650,1300.0,OK
+branch_sales_2026-10.xlsx,INV-100093,2026-10-12,2026-10,West,Webcam,17,3100,52700.0,OK
+branch_sales_2026-10.xlsx,INV-100015,2026-10-13,2026-10,South,Laptop Stand,11,1800,19800.0,OK
+branch_sales_2026-10.xlsx,INV-100103,2026-10-13,2026-10,South,Laptop Stand,3,1800,5400.0,OK
+branch_sales_2026-10.xlsx,INV-100022,2026-10-14,2026-10,South,Keyboard,9,1450,13050.0,OK
+branch_sales_2026-10.xlsx,INV-100044,2026-10-14,2026-10,East,Webcam,1,3100,3100.0,OK
+branch_sales_2026-10.xlsx,INV-100074,2026-10-14,2026-10,East,Laptop Stand,16,1800,28800.0,OK
+branch_sales_2026-10.xlsx,INV-100084,2026-10-14,2026-10,East,Laptop Stand,7,1800,12600.0,OK
+branch_sales_2026-10.xlsx,INV-100097,2026-10-14,2026-10,West,USB-C Hub,16,2200,35200.0,OK
+branch_sales_2026-10.xlsx,INV-100105,2026-10-14,2026-10,East,Laptop Stand,1,1800,1800.0,OK
+branch_sales_2026-10.xlsx,INV-100027,2026-10-15,2026-10,North,USB-C Hub,14,2200,30800.0,OK
+branch_sales_2026-10.xlsx,INV-100031,2026-10-15,2026-10,North,Webcam,20,3100,62000.0,OK
+branch_sales_2026-10.xlsx,INV-100037,2026-10-15,2026-10,South,Webcam,2,3150,6300.0,OK
+branch_sales_2026-10.xlsx,INV-100052,2026-10-15,2026-10,East,Wireless Mouse,16,700,11200.0,OK
+branch_sales_2026-10.xlsx,INV-100055,2026-10-15,2026-10,West,USB-C Hub,5,2250,11250.0,OK
+branch_sales_2026-10.xlsx,INV-100058,2026-10-15,2026-10,West,Keyboard,7,1500,10500.0,OK
+branch_sales_2026-10.xlsx,INV-100059,2026-10-15,2026-10,West,Webcam,14,3150,44100.0,OK
+branch_sales_2026-10.xlsx,INV-100066,2026-10-15,2026-10,North,Laptop Stand,10,1750,17500.0,OK
+branch_sales_2026-10.xlsx,INV-100079,2026-10-15,2026-10,East,Keyboard,16,1400,22400.0,OK
+branch_sales_2026-10.xlsx,INV-100013,2026-10-16,2026-10,East,Keyboard,2,1500,3000.0,OK
+branch_sales_2026-10.xlsx,INV-100036,2026-10-16,2026-10,North,Webcam,19,3050,57950.0,OK
+branch_sales_2026-10.xlsx,INV-100047,2026-10-16,2026-10,East,Keyboard,2,1450,2900.0,OK
+branch_sales_2026-10.xlsx,INV-100067,2026-10-16,2026-10,East,Keyboard,14,1450,20300.0,OK
+branch_sales_2026-10.xlsx,INV-100051,2026-10-17,2026-10,North,USB-C Hub,7,2200,15400.0,OK
+branch_sales_2026-10.xlsx,INV-100095,2026-10-17,2026-10,South,Laptop Stand,5,1800,9000.0,OK
+branch_sales_2026-10.xlsx,INV-100019,2026-10-18,2026-10,West,Webcam,15,3100,46500.0,OK
+branch_sales_2026-10.xlsx,INV-100029,2026-10-18,2026-10,South,Keyboard,17,1450,24650.0,OK
+branch_sales_2026-10.xlsx,INV-100094,2026-10-18,2026-10,North,Laptop Stand,3,1800,5400.0,OK
+branch_sales_2026-10.xlsx,INV-100016,2026-10-19,2026-10,West,Keyboard,11,1450,15950.0,OK
+branch_sales_2026-10.xlsx,INV-100062,2026-10-19,2026-10,South,Keyboard,1,1450,1450.0,OK
+branch_sales_2026-10.xlsx,INV-100078,2026-10-19,2026-10,North,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-10.xlsx,INV-100003,2026-10-20,2026-10,East,Wireless Mouse,15,650,9750.0,OK
+branch_sales_2026-10.xlsx,INV-100008,2026-10-20,2026-10,North,Keyboard,15,1450,21750.0,OK
+branch_sales_2026-10.xlsx,INV-100034,2026-10-20,2026-10,East,Webcam,13,3150,40950.0,OK
+branch_sales_2026-10.xlsx,INV-100064,2026-10-20,2026-10,East,Webcam,5,3100,15500.0,OK
+branch_sales_2026-10.xlsx,INV-100087,2026-10-20,2026-10,North,Keyboard,13,1450,18850.0,OK
+branch_sales_2026-10.xlsx,INV-100011,2026-10-21,2026-10,South,Wireless Mouse,12,700,8400.0,OK
+branch_sales_2026-10.xlsx,INV-100082,2026-10-21,2026-10,South,USB-C Hub,9,2200,19800.0,OK
+branch_sales_2026-10.xlsx,INV-100050,2026-10-22,2026-10,West,Keyboard,1,1500,1500.0,OK
+branch_sales_2026-10.xlsx,INV-100077,2026-10-22,2026-10,East,Wireless Mouse,6,700,4200.0,OK
+branch_sales_2026-10.xlsx,INV-100010,2026-10-23,2026-10,North,Keyboard,7,1500,10500.0,OK
+branch_sales_2026-10.xlsx,INV-100039,2026-10-23,2026-10,North,Keyboard,13,1500,19500.0,OK
+branch_sales_2026-10.xlsx,INV-100076,2026-10-23,2026-10,South,Keyboard,13,1450,18850.0,OK
+branch_sales_2026-10.xlsx,INV-100081,2026-10-23,2026-10,South,USB-C Hub,5,2200,11000.0,OK
+branch_sales_2026-10.xlsx,INV-100100,2026-10-23,2026-10,South,USB-C Hub,8,2200,17600.0,OK
+branch_sales_2026-10.xlsx,INV-100014,2026-10-24,2026-10,West,Laptop Stand,7,1750,12250.0,OK
+branch_sales_2026-10.xlsx,INV-100009,2026-10-25,2026-10,South,Wireless Mouse,3,700,2100.0,OK
+branch_sales_2026-10.xlsx,INV-100083,2026-10-25,2026-10,West,USB-C Hub,19,2200,41800.0,OK
+branch_sales_2026-10.xlsx,INV-100088,2026-10-25,2026-10,North,Webcam,3,3100,9300.0,OK
+branch_sales_2026-10.xlsx,INV-100001,2026-10-26,2026-10,East,USB-C Hub,1,2200,2200.0,OK
+branch_sales_2026-10.xlsx,INV-100005,2026-10-26,2026-10,East,USB-C Hub,16,2200,35200.0,OK
+branch_sales_2026-10.xlsx,INV-100007,2026-10-26,2026-10,South,USB-C Hub,7,2150,15050.0,OK
+branch_sales_2026-10.xlsx,INV-100063,2026-10-26,2026-10,East,Webcam,15,3050,45750.0,OK
+branch_sales_2026-10.xlsx,INV-100086,2026-10-26,2026-10,South,Laptop Stand,18,1850,33300.0,OK
+branch_sales_2026-10.xlsx,INV-100030,2026-10-27,2026-10,North,Wireless Mouse,20,600,12000.0,OK
+branch_sales_2026-10.xlsx,INV-100056,2026-10-27,2026-10,South,Laptop Stand,3,1800,5400.0,OK
+branch_sales_2026-10.xlsx,INV-100002,2026-10-28,2026-10,North,Keyboard,14,1450,20300.0,OK
+branch_sales_2026-10.xlsx,INV-100012,2026-10-28,2026-10,East,Webcam,1,3050,3050.0,OK
+branch_sales_2026-10.xlsx,INV-100069,2026-10-28,2026-10,South,USB-C Hub,1,2200,2200.0,OK
